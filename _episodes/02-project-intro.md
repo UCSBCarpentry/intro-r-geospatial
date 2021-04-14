@@ -154,6 +154,8 @@ Now we have a good directory structure we will now place/save our data files in 
 > - [nordic country data (version 2)](https://raw.githubusercontent.com/datacarpentry/r-intro-geospatial/master/_episodes_rmd/data/nordic-data-2.csv)
 > - [gapminder data](https://raw.githubusercontent.com/datacarpentry/r-intro-geospatial/master/_episodes_rmd/data/gapminder_data.csv)
 > 
+> OR download and un-zip [the files from this zip folder](https://github.com/UCSBCarpentry/2021-05-06-IntroR/raw/gh-pages/data/IntroR_gapminder.zip).
+> 
 > 2\. Make sure the files have the following names: 
 > - `nordic-data.csv`
 > - `nordic-data-2.csv`
@@ -164,28 +166,12 @@ Now we have a good directory structure we will now place/save our data files in 
 > We will load and inspect these data later.
 {: .challenge}
 
-> ## Challenge 2
-> We also want to move the data that we downloaded from the [data page](http://datacarpentry.org/geospatial-workshop/data/) into a subdirectory
-> inside `r-geospatial`. If you haven't already downloaded the data, you can do so by clicking 
-> [this download link](https://ndownloader.figshare.com/articles/2009586/versions/10). 
-> 1. Move the downloaded zip file to the `data` directory.
-> 2. Once the data have been moved, unzip all files.
-{: .challenge}
-
 Once you have completed moving the data across to the new folder,
  your data directory should look as follows:
 
  ```
  data/
     gapminder_data.csv
-    NEON-DS-Airborne-Remote-Sensing/
-    NEON-DS-Landsat-NDVI/
-    NEON-DS-Met-Time-Series/
-    NEON-DS-Site-Layout-Files/
-    NEON-DS-Airborne-Remote-Sensing.zip
-    NEON-DS-Landsat-NDVI.zip
-    NEON-DS-Met-Time-Series.zip
-    NEON-DS-Site-Layout-Files.zip
     nordic-data.csv
     nordic-data-2.csv
  ```

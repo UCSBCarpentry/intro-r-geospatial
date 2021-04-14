@@ -680,12 +680,12 @@ The following objects are masked from 'package:base':
 
 > ## Challenge 5
 >
-> Which of the following could we use to load the `ggplot2` package? (Select all that apply.)
+> Which of the following could we use to load the `ggplot2` package? (Select all that apply.)  
 > 
-> a) install.packages("ggplot2")
-> b) library("ggplot2")
-> c) library(ggplot2)
-> d) library(ggplo2)
+> a) install.packages("ggplot2")  
+> b) library("ggplot2")  
+> c) library(ggplot2)  
+> d) library(ggplo2)  
 >
 > > ## Solution to challenge 5
 > >
