@@ -489,20 +489,20 @@ library(dplyr)
 >
 > Which of the following could we use to load the `ggplot2` package? (Select all that apply.)
 > 
-> a) install.packages("ggplot2")
-> b) library("ggplot2")
-> c) library(ggplot2)
-> d) library(ggplo2)
+> a) install.packages("ggplot2")  
+> b) library("ggplot2")  
+> c) library(ggplot2)  
+> d) library(ggplo2)  
 >
 > > ## Solution to challenge 5
 > >
 > > The correct answers are b and c.
-> > Answer a will install, not load, the ggplot2 package.
-> > Answer b will correctly load the ggplot2 package. Note there are no quotation marks.
-> > Answer c will correctly load the ggplot2 package. Note there are quotation marks.
-> > Answer d will produce an error because ggplot2 is misspelled.
+> > Answer a will install, not load, the ggplot2 package.  
+> > Answer b will correctly load the ggplot2 package. Note there are quotation marks.  
+> > Answer c will correctly load the ggplot2 package. Note there are no quotation marks.  
+> > Answer d will produce an error because ggplot2 is misspelled.  
 > >
-> > Note: It is more common for coders to *not use quotation* marks when loading an R package (i.e., answer c).
+> > Note: It is more common for coders to *not use quotation* marks when loading an R package (i.e., answer c).  
 > >
 > > ```{r ch1pt5-sol, eval=FALSE}
 > > library(ggplot2)
