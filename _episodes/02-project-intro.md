@@ -154,7 +154,7 @@ Now we have a good directory structure we will now place/save our data files in 
 > - [nordic country data (version 2)](https://raw.githubusercontent.com/datacarpentry/r-intro-geospatial/master/_episodes_rmd/data/nordic-data-2.csv)
 > - [gapminder data](https://raw.githubusercontent.com/datacarpentry/r-intro-geospatial/master/_episodes_rmd/data/gapminder_data.csv)
 > 
-> OR download and zip [the files from this zip folder](https://github.com/UCSBCarpentry/2021-05-06-IntroR/raw/gh-pages/data/IntroR_gapminder.zip).
+> OR download and un-zip [the files from this zip folder](https://github.com/UCSBCarpentry/2021-05-06-IntroR/raw/gh-pages/data/IntroR_gapminder.zip).
 > 
 > 2\. Make sure the files have the following names: 
 > - `nordic-data.csv`
